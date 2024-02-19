@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1a8bd865-de7a-42f2-8cd5-8a5d2df375c4" name="Changes" comment="KarateAPITest">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/karate.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/getapi.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/jsontesting.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/karate-config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/print.feature" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Karate" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2cZQamUIJlbjf21VANkjFcz8gUE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.All in karateproject.executor": "Run",
+    "Karate Feature.print.feature: print.feature.executor": "Run",
+    "Karate Feature.print.feature: printing hello world.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Karate Feature.print.feature: print.feature">
+    <configuration name="All in karateproject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="karateproject" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="print.feature: print.feature" type="karate" temporary="true">
+      <option name="karateSearchPaths">
+        <list>
+          <option value="$PROJECT_DIR$/src/test/print.feature" />
+        </list>
+      </option>
+      <module name="karateproject" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="print.feature: printing hello world" type="karate" temporary="true">
+      <option name="karateSearchPaths">
+        <list>
+          <option value="$PROJECT_DIR$/src/test/print.feature:3" />
+        </list>
+      </option>
+      <module name="karateproject" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Karate Feature.print.feature: print.feature" />
+        <item itemvalue="JUnit.All in karateproject" />
+        <item itemvalue="Karate Feature.print.feature: printing hello world" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a8bd865-de7a-42f2-8cd5-8a5d2df375c4" name="Changes" comment="" />
+      <created>1708316689182</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708316689182</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="KarateAPITest" />
+    <option name="LAST_COMMIT_MESSAGE" value="KarateAPITest" />
+  </component>
+</project>
